@@ -151,18 +151,6 @@ function moverEnDireccion(direccion) {
   }
 }
 
-
-//////////////////////////////////////////////////////////
-////////A CONTINUACIÓN FUNCIONES YA IMPLEMENTADAS.////////
-/////////NO TOCAR A MENOS QUE SEPAS LO QUE HACES//////////
-//////////////////////////////////////////////////////////
-
-/* Las funciones y variables que se encuentran a continuación ya están implementadas.
-No hace falta que entiendas exactamente que es lo que hacen, ya que contienen
-temas aún no vistos. De todas formas, cada una de ellas tiene un comentario
-para que sepas que se está haciendo a grandes rasgos. NO LAS MODIFIQUES a menos que
-entiendas perfectamente lo que estás haciendo! */
-
 /* codigosDireccion es un objeto que te permite reemplazar
 el uso de números confusos en tu código. Para referirte a la dir
 izquierda, en vez de usar el número 37, ahora podés usar:
